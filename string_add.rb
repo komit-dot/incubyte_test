@@ -13,4 +13,3 @@ describe 'first calculate the addition of string' do
 		assert_equal(99, result)
 	end 
 end 
-
